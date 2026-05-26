@@ -1,11 +1,13 @@
 # Legendary Deathstalker Mantle
-A mod for [Baldur's Gate 3](https://baldursgate3.game/).
+![banner image](./images/banner.png)
+
+A mod for [Baldur's Gate 3](https://baldursgate3.game/).\
 Nexus Mods Mirror: [https://www.nexusmods.com/baldursgate3/mods/23070](https://www.nexusmods.com/baldursgate3/mods/23070)
 
 ## Description
 Changes the rarity of [**The Deathstalker Mantle**](https://bg3.wiki/wiki/The_Deathstalker_Mantle) from **Rare** to **Legendary**. It is a purely cosmetic change.
 
-> *Let hill and hollow be a door*
+> *Let hill and hollow be a door*\
 > *To screams that last forevermore*
 
 ## Compatibility
@@ -52,6 +54,6 @@ data "Unique" "1"
 ```
 
 ## References
-[bg3.wiki - Modding Resources](https://bg3.wiki/wiki/Modding:Creating_meta.lsx)
-[bg3.wiki - The Deathstalker Mantle](https://bg3.wiki/wiki/The_Deathstalker_Mantle)
+[bg3.wiki - Modding Resources](https://bg3.wiki/wiki/Modding:Creating_meta.lsx)\
+[bg3.wiki - The Deathstalker Mantle](https://bg3.wiki/wiki/The_Deathstalker_Mantle)\
 [Baldur's Gate 3 Modder's Multitool](https://github.com/ShinyHobo/BG3-Modders-Multitool)
